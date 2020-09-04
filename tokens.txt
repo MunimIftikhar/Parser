@@ -1,0 +1,17 @@
+int int 
+x id
+( (
+rate2 id
+) )
+{ {
+rate2 id
+=: =:
+rate2 id
++ +
+( (
+2 numb
+* *
+3 num
+) )
+; ;
+} }

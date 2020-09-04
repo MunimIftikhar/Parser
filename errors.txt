@@ -1,0 +1,13 @@
+rate2 id
+rate2 id
+) )
+{ {
+rate2 id
+rate2 id
++ +
+( (
+2 numb
+* *
+) )
+; ;
+} }
